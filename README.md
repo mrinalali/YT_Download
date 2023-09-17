@@ -2,7 +2,13 @@
 
 #this is simple you-tube video downloadar tool
 
+
 #frist install termux pkg 
+
+apt update && apt upgrade 
+
+
+pkg install git 
 
 pip install pyfiglet 
 
