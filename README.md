@@ -12,6 +12,8 @@ pkg install git
 
 pip install pyfiglet 
 
+git clone https://github.com/mrinalali/YT_Download.git
+
 ls
 
 cd YT_Download
